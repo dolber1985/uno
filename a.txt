@@ -6,3 +6,4 @@ terzo
 quarto
 quinto
 sei
+sette
